@@ -19,6 +19,7 @@
 ## Primary Goals
 
 - [ ] MAM -> Chainsaw - solve biomass permanently
+- [ ] Build Reinforced Plate Line
 - [ ] Build Cable & Copper Sheet Line
 - [ ] Build Modular Frame Line
 - [ ] Build Rotor Line
