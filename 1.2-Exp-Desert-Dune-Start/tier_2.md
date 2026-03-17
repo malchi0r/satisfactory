@@ -1,50 +1,36 @@
-# Tier 2 — Coal Power & Exploration
+# Tier 2 - Advanced Base Building & Exploration
 
-**Status:** 🔄 In Progress  
-**Total Time:** —  
-**Sessions:** —
+**Status:** In Progress  
+**Total Time:** -  
+**Sessions:** -
 
 ---
 
 ## Milestones
 
-| Milestone | Key Unlocks | Status |
-|-----------|-------------|--------|
-| Part Assembly |  | ⬜ |
-| Hub Upgrade 8 | — | ⬜ |
-| Hub Upgrade 9 | — | ⬜ |
-| Hub Upgrade 10 | — | ⬜ |
+- [ ] Part Assembly - Assembler, Copper Sheet, Rotor, Modular Frame, Smart Plating
+- [ ] Obstacle Clearing - Solid Biofuel, Chainsaw, +3 inventory slots
+- [ ] Jump Pads - Jump Pad, U-Jelly Landing Pad
+- [ ] Resource Sink Bonus Program - AWESOME Sink, AWESOME Shop, Color Catridge, Build Gun Upgrade, Customizer 
+- [ ] Logistics Mk. 2 - Conveyor Belt Mk. 2, Stackable Conveyor Pole, Conveyor Lift Mk. 2, Tier 3
 
 ---
 
 ## Primary Goals
 
-- [ ] MAM → Chainsaw (biomass problem solved)
-- [ ] Locate coal node
-- [ ] Build coal generator array (target 8–10 generators)
-- [ ] Water pipeline from waterfall basin to coal generators
-- [ ] Cut over from biomass to coal power
-- [ ] Unlock Miner Mk2
-- [ ] Begin spine road planning/construction
-
----
-
-## Coal Power Setup
-
-| Component | Target | Actual |
-|-----------|--------|--------|
-| Coal Generators | 8–10 | — |
-| Water Extractors | TBD | — |
-| Coal Node Purity | TBD | — |
-| Coal Node Distance | TBD | — |
+- [ ] MAM -> Chainsaw - solve biomass permanently
+- [ ] Build Cable & Copper Sheet Line
+- [ ] Build Modular Frame Line
+- [ ] Build Rotor Line
+- [ ] Build Smart Plating Line
 
 ---
 
 ## New Nodes Discovered
 
-| Resource | Purity | Location Notes |
-|----------|--------|----------------|
-| — | — | — |
+| Resource | Purity | Distance from HUB | Notes |
+|----------|--------|-------------------|-------|
+| - | - | - | - |
 
 ---
 
@@ -52,16 +38,15 @@
 
 | Item | Rate | Method |
 |------|------|--------|
-| — | — | — |
+| - | - | - |
 
 ---
 
-## Road Network Progress
+## Power at Tier Completion
 
-| Route | Status | Notes |
-|-------|--------|-------|
-| HUB → Coal node | ⬜ | First planned branch |
-| Spine road segment 1 | ⬜ | — |
+| Source | Count | Notes |
+|--------|-------|-------|
+| - | - | - |
 
 ---
 
@@ -69,24 +54,22 @@
 
 | Recipe | Source | In Use |
 |--------|--------|--------|
-| — | — | — |
-
----
-
-## Session Log
-
-| Session | Date | Duration | Notes |
-|---------|------|----------|-------|
-| — | — | — | — |
+| - | - | - |
 
 ---
 
 ## Notes & Observations
 
-*To be filled during play*
+-
 
 ---
 
 ## Heading Into Tier 3
 
-*To be filled at tier completion*
+**Immediate priorities:**
+
+-
+
+**Open questions:**
+
+-
