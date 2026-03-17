@@ -9,7 +9,7 @@
 ## Milestones
 
 - [ ] Part Assembly - Assembler, Copper Sheet, Rotor, Modular Frame, Smart Plating
-- [ ] Obstacle Clearing - Solid Biofuel, Chainsaw, +3 inventory slots
+- [ ] Obstacle Clearing - Solid Biofuel (chainsaw pre-req.), +3 inventory slots
 - [ ] Jump Pads - Jump Pad, U-Jelly Landing Pad
 - [ ] Resource Sink Bonus Program - AWESOME Sink, AWESOME Shop, Color Catridge, Build Gun Upgrade, Customizer 
 - [ ] Logistics Mk. 2 - Conveyor Belt Mk. 2, Stackable Conveyor Pole, Conveyor Lift Mk. 2, Tier 3

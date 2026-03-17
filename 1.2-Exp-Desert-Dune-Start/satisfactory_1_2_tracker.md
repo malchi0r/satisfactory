@@ -12,7 +12,7 @@
 | Tier | Name | Status | Total Time | Sessions |
 |------|------|--------|------------|---------|
 | Tier 1 | Logistics & Foundations | ✅ Complete | 2h 14m | 1 |
-| Tier 2 | Coal Power & Exploration | 🔄 In Progress | — | — |
+| Tier 2 | Advanced Base Building & Exploration | 🔄 In Progress | — | — |
 | Tier 3 | Steel Production | ⬜ Locked | — | — |
 | Tier 4 | Advanced Manufacturing | ⬜ Locked | — | — |
 | Tier 5 | Oil Processing | ⬜ Locked | — | — |
