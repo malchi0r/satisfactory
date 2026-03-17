@@ -10,15 +10,15 @@
 
 | Milestone | Status | Key Unlocks |
 |-----------|------|---------------------------|
-| Hub Upgrade 1 | [x] | Basic parts, resource scanner (iron) | 
-| Hub Upgrade 2 | [x] | Copper scanner |
-| Hub Upgrade 3 | [x] | Constructors |
-| Hub Upgrade 4 | [x] | Conveyor Belts Mk1 |
-| Hub Upgrade 5 | [x] | Miner Mk1 |
-| Hub Upgrade 6 | [x] | Biomass Burners |
-| Base Building | [x] | Lookout Tower, Foundations, Ramp, Wall |
-| Logistics | [x] | Conveyor Splitter, Converor Merger, Conveyor Lift, Productivity Display
-| Field Research | [x] | MAM, Personal Storage Box, Object Scanner, Beacon, Map, +3 Inventory, +1 Hand Slot, opens Tier 2 |
+| Hub Upgrade 1 | - [x] | Basic parts, resource scanner (iron) | 
+| Hub Upgrade 2 | - [x] | Copper scanner |
+| Hub Upgrade 3 | - [x] | Constructors |
+| Hub Upgrade 4 | - [x] | Conveyor Belts Mk1 |
+| Hub Upgrade 5 | - [x] | Miner Mk1 |
+| Hub Upgrade 6 | - [x] | Biomass Burners |
+| Base Building | - [x] | Lookout Tower, Foundations, Ramp, Wall |
+| Logistics | - [x] | Conveyor Splitter, Converor Merger, Conveyor Lift, Productivity Display
+| Field Research | - [x] | MAM, Personal Storage Box, Object Scanner, Beacon, Map, +3 Inventory, +1 Hand Slot, opens Tier 2 |
 
 ---
 
