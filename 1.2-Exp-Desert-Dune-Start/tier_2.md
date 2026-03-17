@@ -10,7 +10,7 @@
 
 | Milestone | Key Unlocks | Status |
 |-----------|-------------|--------|
-| Hub Upgrade 7 | — | ⬜ |
+| Part Assembly |  | ⬜ |
 | Hub Upgrade 8 | — | ⬜ |
 | Hub Upgrade 9 | — | ⬜ |
 | Hub Upgrade 10 | — | ⬜ |
