@@ -68,8 +68,10 @@
 
 **Immediate priorities:**
 
--
+- 
 
 **Open questions:**
 
--
+- Where is the nearest coal node relative to HUB?
+- Is there a pure or normal coal node within pipeline reach of the waterfall water source?
+

@@ -101,11 +101,6 @@ No Chainsaw yet at tier completion - hand gathering biomass from waterway shore.
 **Immediate priorities:**
 
 1. MAM -> Chainsaw - solve biomass permanently
-2. Scout coal node location
-3. Build coal power infrastructure (target 8-10 generators)
-4. Unlock Miner Mk2 for pure iron node
+2. Rebuild Basic Lines on Foundations
 
 **Open questions:**
-
-- Where is the nearest coal node relative to HUB?
-- Is there a pure or normal coal node within pipeline reach of the waterfall water source?
