@@ -11,10 +11,13 @@
 - [ ] Coal Power - Coal Generator, Water Extractor, Pipeline, Pipeline Support, Pipeline Junction Cross, Pipeline Pump, Fluid Buffer, Coal Scanning
 - [ ] Vehicular Transport - Truck Station, Tractor, +3 Inventory Slots
 - [ ] Basic Steel Production - Foundry, Steel Ingot, Steel Beam, Steel Pipe, Versatile Framework
-- [ ] Enhanced Asset Security, Xeno-Basher, +1 Hand Slot, +3 Inventory Slots 
+- [ ] Enhanced Asset Security, Xeno-Basher, +1 Hand Slot, +3 Inventory Slots
 
 ---
 
+## Primary Goals
+
+- [ ] Build Modular Frame Line — *migrated from Tier 2*
 - [ ] Scout and locate coal node
 - [ ] Build coal generator array (target 8-10 generators)
 - [ ] Water pipeline from waterfall basin to coal generators
