@@ -1,8 +1,8 @@
 # Satisfactory 1.2 Experimental — Dune Desert Playthrough Tracker
 
-> **Version:** 1.2 Experimental  
-> **Biome:** Dune Desert  
-> **Playstyle:** Straight build — no cost multipliers, no node randomization  
+> **Version:** 1.2 Experimental
+> **Biome:** Dune Desert
+> **Playstyle:** Straight build — no cost multipliers, no node randomization
 > **Key 1.2 Features in Play:** Advanced vehicle pathing, fluid trucking (unpackaged water/oil), road infrastructure
 
 ---
@@ -13,8 +13,8 @@
 |------|------|--------|------------|---------|
 | Tier 1 | Logistics & Foundations | ✅ Complete | 2h 14m | 1 |
 | Tier 2 | Advanced Base Building & Exploration | ✅ Complete | ~3h 23m | 2 |
-| Tier 3 | Coal Power & Exploration | 🔄 In Progress | — | — |
-| Tier 4 | Advanced Manufacturing | ⬜ Locked | — | — |
+| Tier 3 | Coal Power & Exploration | ✅ Complete | 4h 12m | 2 |
+| Tier 4 | Advanced Manufacturing | 🔄 In Progress | — | — |
 | Tier 5 | Oil Processing | ⬜ Locked | — | — |
 | Tier 6 | Industrial Manufacturing | ⬜ Locked | — | — |
 | Tier 7 | Bauxite Refinement | ⬜ Locked | — | — |
@@ -28,22 +28,31 @@
 *Updated at end of each tier*
 
 ### End of Tier 1
-**Power:** 5x Biomass Burners (hand fed)  
-**Miners:** Pure Iron Mk1, Normal Copper Mk1, Normal Limestone Mk1  
-**Production:** Iron Plates, Iron Rods, Screws (40/min), Wire, Concrete — all automated  
-**Logistics:** Mk1 Conveyor Belts, basic containers  
-**Road Network:** Not started  
-**Trains:** Not started  
-**Fluid Trucking:** Not started  
+**Power:** 5x Biomass Burners (hand fed)
+**Miners:** Pure Iron Mk1, Normal Copper Mk1, Normal Limestone Mk1
+**Production:** Iron Plates, Iron Rods, Screws (40/min), Wire, Concrete — all automated
+**Logistics:** Mk1 Conveyor Belts, basic containers
+**Road Network:** Not started
+**Trains:** Not started
+**Fluid Trucking:** Not started
 
 ### End of Tier 2
-**Power:** 8x Biomass Burners (2 HUB + 6 external) — 220 MW  
-**Miners:** Pure Iron Mk1, Normal Iron Mk1 (75% clock), Normal Copper Mk1, Normal Limestone Mk1  
-**Production:** Wire 60/min, Cable 30/min, Reinforced Plate 5/min, Copper Sheet 30/min, Rotor 4/min, Smart Plating 2/min — all automated  
-**Logistics:** Mk2 Conveyor Belts, AWESOME Sink online  
-**Road Network:** Not started  
-**Trains:** Not started  
-**Fluid Trucking:** Not started  
+**Power:** 8x Biomass Burners (2 HUB + 6 external) — 220 MW
+**Miners:** Pure Iron Mk1, Normal Iron Mk1 (75% clock), Normal Copper Mk1, Normal Limestone Mk1
+**Production:** Wire 60/min, Cable 30/min, Reinforced Plate 5/min, Copper Sheet 30/min, Rotor 4/min, Smart Plating 2/min — all automated
+**Logistics:** Mk2 Conveyor Belts, AWESOME Sink online
+**Road Network:** Not started
+**Trains:** Not started
+**Fluid Trucking:** Not started
+
+### End of Tier 3
+**Power:** 8x Coal Generators (600 MW) + 8x Biomass Burners (220 MW) — 820 MW supply / ~361.8 MW draw
+**Miners:** Pure Iron Mk1, Normal Iron Mk1, Impure Iron Mk1 x2, Normal Copper Mk1, Normal Limestone Mk1, Normal Coal Mk1 x2
+**Production:** Iron Rods 30/min, Screws 120/min, Iron Plates 40/min, Wire 60/min, Cable 30/min, Reinforced Plate 5/min, Copper Sheet 30/min, Rotor 4/min, Smart Plating 2/min, Modular Frame 4/min, Concrete 20/min — all automated
+**Logistics:** Mk2 Conveyor Belts, AWESOME Sink online
+**Road Network:** Not started
+**Trains:** Not started
+**Fluid Trucking:** Not started
 
 ---
 
@@ -53,19 +62,40 @@
 |----------|--------|-------------------|-------|
 | Iron | Pure | ~200m | Primary iron source |
 | Iron | Normal | ~75m from pure iron | Secondary — Rotor line |
+| Iron | Impure x2 | — | Modular Frame line |
 | Copper | Normal | ~145m | Adjacent to pure iron cluster |
+| Copper | Normal | 2527, -1624 | Discovered Session 4 |
 | Limestone | Normal | Cliff base, HUB adjacent | — |
 | Limestone | Impure x2 | Waterfall basin | Backup only |
 | Iron | Impure x2+ | Waterfall shoreline | Backup only |
-| Coal | — | TBD | Scout Tier 3 |
+| Coal | Normal x2 | ~350m NNE | Active — power array |
+| Coal | Pure x2 | ~850m NE | Future expansion |
+| Coal | Impure x2 | ~515m NNW | Backup |
 | Oil | — | TBD — Spire Coast north | Tier 5 target |
 | Water | — | Waterfall basin | Confirmed for coal power |
 
 ---
 
+## Power Draw by Line
+
+| Line | Power Draw |
+|------|-----------|
+| Iron (Pure Node) | 52 MW |
+| Copper Node (Wire 60/min, Cable 30/min) | 33 MW |
+| Reinforced Plate (5/min) | 39.2 MW |
+| Copper Sheet (30/min) | 14.6 MW |
+| Rotor (4/min) | 43.6 MW |
+| Smart Plating (2/min) | 15 MW |
+| Modular Frame (4/min) | 82.8 MW |
+| Coal Power Array (draw) | 68 MW |
+| Limestone/Concrete (20/min) | 13.6 MW |
+| **Total** | **~361.8 MW** |
+
+---
+
 ## Road & Logistics Network
 
-*To be built out in Tier 3+*
+*To be built out in Tier 4+*
 
 ### Planned Spine Road
 - **Axis:** North–South along desert
@@ -78,6 +108,16 @@
 
 ### Train Network
 *Not started — target Tier 3/4*
+
+---
+
+## MAM Unlocks
+
+| Unlock | Tree | Session |
+|--------|------|---------|
+| Chainsaw | — | Session 2 |
+| Inflated Pocket Dimension | Megafauna | Session 5 |
+| Structural Analysis | Megafauna | Session 5 |
 
 ---
 
@@ -96,14 +136,17 @@
 | 1 | 2026-03-17 | 2h 14m | Tier 1 | Spawn, scout, bootstrap factory, Tier 1 complete |
 | 2 | — | 1h 30m | Tier 2 | Chainsaw, Reinforced Plate, Cable & Copper Sheet lines |
 | 3 | — | 1h 53m | Tier 2, Tier 3 unlock | Remaining milestones, Rotor & Smart Plating lines, Phase 1 submitted, Tier 2 complete |
+| 4 | — | 3h 00m | Tier 3 | Modular Frame line, Coal Power array, Coal Power milestone |
+| 5 | — | 1h 12m | Tier 3 | Remaining Tier 3 milestones, iron & limestone line rebuilds, Tier 3 complete |
 
 ---
 
 ## Tier Details
 
-- [Tier 1 — Logistics & Foundations](./tiers/tier_1.md)
-- [Tier 2 — Advanced Base Building & Exploration](./tiers/tier_2.md) ✅
-- [Tier 3 — Coal Power & Exploration](./tiers/tier_3.md) *(in progress)*
+- [Tier 1 — Logistics & Foundations](./tier_1.md) ✅
+- [Tier 2 — Advanced Base Building & Exploration](./tier_2.md) ✅
+- [Tier 3 — Coal Power & Exploration](./tier_3.md) ✅
+- [Tier 4 — Advanced Manufacturing](./tier_4.md) *(in progress)*
 
 ---
 
