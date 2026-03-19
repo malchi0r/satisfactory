@@ -8,11 +8,11 @@
 
 ## Milestones
 
-- [ ] Advanced Steel Production - Steel Ingot (alternate), Steel Beam, Steel Pipe, Versatile Framework
-- [ ] Improved Melee Combat - Xeno-Zapper, Rebar Gun, Nobelisk Detonator
-- [ ] Logistics Mk. 3 - Conveyor Belt Mk. 3, Conveyor Lift Mk. 3
-- [ ] Hypertubes - Hypertube, Hypertube Support, Hypertube Entrance
-- [ ] FICSIT Blueprints - Blueprint Designer, Blueprint Designer Mk. 2
+- [x] FICSIT Blueprints — Session 6, 1:44:00
+- [x] Advanced Steel Production — Session 6, 1:49:00
+- [ ] Improved Melee Combat
+- [ ] Logistics Mk. 3
+- [ ] Hypertubes
 
 ---
 
@@ -58,13 +58,15 @@
 
 | Recipe | Source | In Use |
 |--------|--------|--------|
-| — | — | — |
+| TBD — Session 6 hard drive | Crash site 3025, -2425 | Pending scan |
 
 ---
 
 ## Notes & Observations
 
-—
+- Steel Iron Mine built on 2 Normal Iron nodes, output 150/min by tractor
+- Steel Factory on 2 Pure Coal nodes — Unit A (Steel Pipe 20/min), Unit B (Steel Beam 30/min)
+- FICSIT Blueprints unlocked before Advanced Steel Production — intentional order deviation
 
 ---
 

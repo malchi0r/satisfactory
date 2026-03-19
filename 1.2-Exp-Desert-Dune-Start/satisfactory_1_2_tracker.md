@@ -62,6 +62,7 @@
 |----------|--------|-------------------|-------|
 | Iron | Pure | ~200m | Primary iron source |
 | Iron | Normal | ~75m from pure iron | Secondary — Rotor line |
+| Iron | Normal x2 | — | Steel Iron Mine |
 | Iron | Impure x2 | — | Modular Frame line |
 | Copper | Normal | ~145m | Adjacent to pure iron cluster |
 | Copper | Normal | 2527, -1624 | Discovered Session 4 |
@@ -69,7 +70,7 @@
 | Limestone | Impure x2 | Waterfall basin | Backup only |
 | Iron | Impure x2+ | Waterfall shoreline | Backup only |
 | Coal | Normal x2 | ~350m NNE | Active — power array |
-| Coal | Pure x2 | ~850m NE | Future expansion |
+| Coal | Pure x2 | ~850m NE | Active — Steel Factory |
 | Coal | Impure x2 | ~515m NNW | Backup |
 | Oil | — | TBD — Spire Coast north | Tier 5 target |
 | Water | — | Waterfall basin | Confirmed for coal power |
@@ -89,7 +90,11 @@
 | Modular Frame (4/min) | 82.8 MW |
 | Coal Power Array (draw) | 68 MW |
 | Limestone/Concrete (20/min) | 13.6 MW |
-| **Total** | **~361.8 MW** |
+| Steel Iron Mine (mining + truck stop) | 53.5 MW |
+| Steel Factory — Unit A (Steel Pipe 20/min) | 13.4 MW |
+| Steel Factory — Unit B (Steel Beam 30/min) | 49.1 MW |
+| Steel Factory — Coal Mining + truck stop | 27 MW |
+| **Total** | **~505.8 MW** |
 
 ---
 
@@ -102,6 +107,11 @@
 - **South anchor:** HUB / main base area
 - **North anchor:** Spire Coast (oil)
 - **Branch points:** Coal cluster, iron/copper mining district, oasis water source
+
+### Active Truck Routes
+| Route | Cargo | Vehicles |
+|-------|-------|---------|
+| Steel Iron Mine → Steel Factory | Iron 150/min | Tractors |
 
 ### Fluid Trucking Routes
 *None yet — planned for Tier 5 oil operations*
@@ -125,7 +135,7 @@
 
 | Recipe | Source | In Use |
 |--------|--------|--------|
-| — | — | — |
+| TBD — Session 6 hard drive | Crash site 3025, -2425 | Pending (scan incomplete at session end) |
 
 ---
 
@@ -138,6 +148,7 @@
 | 3 | — | 1h 53m | Tier 2, Tier 3 unlock | Remaining milestones, Rotor & Smart Plating lines, Phase 1 submitted, Tier 2 complete |
 | 4 | — | 3h 00m | Tier 3 | Modular Frame line, Coal Power array, Coal Power milestone |
 | 5 | — | 1h 12m | Tier 3 | Remaining Tier 3 milestones, iron & limestone line rebuilds, Tier 3 complete |
+| 6 | — | 1h 50m | Tier 4 | Steel Iron Mine, Steel Factory (Pipe + Beam), FICSIT Blueprints, Advanced Steel Production, hard drive recovered |
 
 ---
 
