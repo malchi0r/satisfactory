@@ -14,7 +14,7 @@
 | Tier 1 | Logistics & Foundations | ✅ Complete | 2h 14m | 1 |
 | Tier 2 | Advanced Base Building & Exploration | ✅ Complete | ~3h 23m | 2 |
 | Tier 3 | Coal Power & Exploration | ✅ Complete | 4h 12m | 2 |
-| Tier 4 | Advanced Manufacturing | 🔄 In Progress | — | 3 |
+| Tier 4 | Advanced Manufacturing | 🔄 In Progress | — | 4 |
 | Tier 5 | Oil Processing | ⬜ Locked | — | — |
 | Tier 6 | Industrial Manufacturing | ⬜ Locked | — | — |
 | Tier 7 | Bauxite Refinement | ⬜ Locked | — | — |
@@ -66,6 +66,7 @@
 | Iron | Impure x2 | — | Modular Frame line |
 | Copper | Normal | ~145m | Adjacent to pure iron cluster |
 | Copper | Normal | 2527, -1624 | Discovered Session 4 |
+| Copper | Normal | Steel Factory site | Unit C supply — Session 9 |
 | Limestone | Normal | Cliff base, HUB adjacent | — |
 | Limestone | Impure x2 | Waterfall basin | Backup only |
 | Iron | Impure x2+ | Waterfall shoreline | Backup only |
@@ -94,8 +95,9 @@
 | Steel Factory — Unit A (Steel Pipe 20/min) | 13.4 MW |
 | Steel Factory — Unit B (Steel Beam 30/min, Encased Industrial Beam 5.835/min, Versatile Framework 5/min) | 210 MW |
 | Steel Factory — Coal Mining + truck stop | 19.5 MW |
-| Automated Wiring (2.5/min) | TBD |
-| **Total (excl. Automated Wiring)** | **~758.4 MW** |
+| Steel Factory — Copper Supply (60/min) | 4 MW |
+| Steel Factory — Unit C (Automated Wiring 2.5/min) | 45.2 MW |
+| **Total** | **~807.6 MW** |
 
 ---
 
@@ -114,6 +116,14 @@
 | Coal A | 1x Mk.2 Normal Coal | 600 MW | 3x | 75 MW | — |
 | Coal B | 1x Mk.2 Normal Coal | 600 MW | 3x | 75 MW | — |
 | **Total** | | **1200 MW** | **6x** | **150 MW** | **1050 MW** |
+
+---
+
+## Collectibles
+
+| Item | Count | Notes |
+|------|-------|-------|
+| Mercer Sphere | 2 | Second found Session 9 |
 
 ---
 
@@ -147,6 +157,7 @@
 | Chainsaw | — | Session 2 |
 | Inflated Pocket Dimension | Megafauna | Session 5 |
 | Structural Analysis | Megafauna | Session 5 |
+| Yellow Power Slug | — | Session 9, 55:30 |
 
 ---
 
@@ -155,6 +166,8 @@
 | Recipe | Source | In Use |
 |--------|--------|--------|
 | TBD — Session 6 hard drive | Crash site 3025, -2425 | Pending (scan incomplete at session end) |
+| Steel Rods | Hard drive (Session 9) | — |
+| TBD — Session 9 hard drive | — | Scanning at session end |
 
 ---
 
@@ -170,6 +183,7 @@
 | 6 | — | 1h 50m | Tier 4 | Steel Iron Mine, Steel Factory (Pipe + Beam), FICSIT Blueprints, Advanced Steel Production, hard drive recovered |
 | 7 | — | 28m | Tier 4 | Logistics Mk. 3, Coal Power miners upgraded to Mk. 2 |
 | 8 | — | 2h 50m + 2h 5m | Tier 4 | Coal Power Expansion (Coal B), Steel Iron Mine upgrade, Steel Factory revamp, Expanded Power Infrastructure, Hypertubes, Automated Wiring, Versatile Framework, Encased Industrial Beam, Tier 4 complete |
+| 9 | 2026-03-20 | ~2h 43m | Tier 4 | Unit C (Automated Wiring 2.5/min), Yellow Power Slug (MAM), Steel Rods alt recipe, Space Elevator Phase 2 complete |
 
 ---
 
@@ -189,3 +203,7 @@ HUB at cliff base near waterfall basin is a bootstrap base, not the forever home
 
 ### 1.2 Logistics Approach
 Last-mile infrastructure model rather than the old railroad-first constraint. Spine road handles trunk volume, branch roads serve node clusters, trains handle high volume freight once steel allows. Fluid trucking enables refinery placement flexibility — crude can come to a central refinery or finished products can ship from a dedicated oil outpost. Decision deferred until Tier 5.
+
+---
+
+*Created: 2026-03-20*

@@ -2,7 +2,7 @@
 
 **Status:** In Progress
 **Total Time:** —
-**Sessions:** 3
+**Sessions:** 4
 
 ---
 
@@ -20,8 +20,9 @@
 
 - [x] Build second coal generator unit
 - [x] Build Versatile Framework line — 5/min
-- [ ] Build Automated Wiring line — 2.5/min
-- [ ] Finish Phase 2
+- [x] Build Automated Wiring line — 2.5/min
+- [x] Finish Phase 2 — Session 9, 2:43:00
+- [ ] Overclock Unit A (Steel Pipe) — power slug acquired, pending execution
 - [ ] Scout spine road route
 - [ ] Begin spine road construction
 
@@ -31,7 +32,7 @@
 
 | Resource | Purity | Distance from HUB | Notes |
 |----------|--------|-------------------|-------|
-| — | — | — | — |
+| Copper | Normal | Steel Factory site | Unit C supply |
 
 ---
 
@@ -71,7 +72,10 @@
 
 ---
 
-## Steel Factory — Post Revamp (Session 8)
+## Steel Factory — Current State (Session 9)
+
+**Iron Supply**
+- 360/min by tractor from Steel Iron Mine
 
 **Coal Supply**
 
@@ -80,8 +84,11 @@
 | Mk.2 Pure Coal | 112.5% | 270/min | 17.5 MW | Unit B |
 | Mk.1 Pure Coal | 50% | 30/min | 2 MW | Unit A + fuel tractor |
 
-**Iron Supply**
-- 360/min by tractor from Steel Iron Mine
+**Copper Supply**
+
+| Miner | Clock | Output | Draw | Destination |
+|-------|-------|--------|------|-------------|
+| Mk.1 Normal Copper | 100% | 60/min | 4 MW | Unit C |
 
 **Production Units**
 
@@ -89,6 +96,11 @@
 |------|--------|------|
 | Unit A (Steel Pipe) | 20/min Steel Pipe | 13.4 MW |
 | Unit B (Steel Beam, Encased Industrial Beam, Versatile Framework) | 30/min Steel Beam, 5.835/min Encased Industrial Beam, 5/min Versatile Framework | 210 MW |
+| Unit C (Automated Wiring) | 2.5/min | 45.2 MW |
+
+**Notes:**
+- Unit A currently tapped 7.5/min pipe to Unit C — net available pipe is 12.5/min
+- Power slug acquired (Session 9 MAM, 55:30) — overclock Unit A pending
 
 ---
 
@@ -103,7 +115,17 @@
 
 | Recipe | Source | In Use |
 |--------|--------|--------|
-| TBD — Session 6 hard drive | Crash site 3025, -2425 | Pending scan |
+| TBD — Session 6 hard drive | Crash site 3025, -2425 | Pending (scan incomplete at session end) |
+| Steel Rods | Hard drive (session 9) | — |
+| TBD — Session 9 hard drive | — | Scanning at session end |
+
+---
+
+## Collectibles
+
+| Item | Count |
+|------|-------|
+| Mercer Sphere | 2 |
 
 ---
 
@@ -114,6 +136,8 @@
 - FICSIT Blueprints unlocked before Advanced Steel Production — intentional order deviation
 - Coal Power miners upgraded to Mk. 2 (Session 7); Coal B unit added (Session 8)
 - Game crash at 2:50 in Session 8 — new clock started
+- Unit C (Automated Wiring) built at Steel Factory site using local copper node (Session 9)
+- Space Elevator Phase 2 complete Session 9
 
 ---
 
@@ -126,3 +150,7 @@
 **Open questions:**
 
 —
+
+---
+
+*Created: 2026-03-20*
