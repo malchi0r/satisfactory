@@ -14,7 +14,7 @@
 | Tier 1 | Logistics & Foundations | ✅ Complete | 2h 14m | 1 |
 | Tier 2 | Advanced Base Building & Exploration | ✅ Complete | ~3h 23m | 2 |
 | Tier 3 | Coal Power & Exploration | ✅ Complete | 4h 12m | 2 |
-| Tier 4 | Advanced Manufacturing | 🔄 In Progress | — | 4 |
+| Tier 4 | Advanced Manufacturing | ✅ Complete | ~9h 56m | 4 |
 | Tier 5 | Oil Processing | ⬜ Locked | — | — |
 | Tier 6 | Industrial Manufacturing | ⬜ Locked | — | — |
 | Tier 7 | Bauxite Refinement | ⬜ Locked | — | — |
@@ -192,7 +192,7 @@
 - [Tier 1 — Logistics & Foundations](./tier_1.md) ✅
 - [Tier 2 — Advanced Base Building & Exploration](./tier_2.md) ✅
 - [Tier 3 — Coal Power & Exploration](./tier_3.md) ✅
-- [Tier 4 — Advanced Manufacturing](./tier_4.md) *(in progress)*
+- [Tier 4 — Advanced Manufacturing](./tier_4.md) ✅
 
 ---
 

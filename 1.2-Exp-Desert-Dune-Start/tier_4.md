@@ -1,7 +1,7 @@
 # Tier 4 - Advanced Manufacturing
 
-**Status:** In Progress
-**Total Time:** —
+**Status:** Complete
+**Total Time:** ~9h 56m
 **Sessions:** 4
 
 ---
@@ -40,7 +40,22 @@
 
 | Item | Rate | Method |
 |------|------|--------|
-| — | — | — |
+| Iron Rods | 30/min | Automated |
+| Screws | 120/min | Automated |
+| Iron Plates | 40/min | Automated |
+| Wire | 60/min | Automated |
+| Cable | 30/min | Automated |
+| Reinforced Plate | 5/min | Automated |
+| Copper Sheet | 30/min | Automated |
+| Rotor | 4/min | Automated |
+| Smart Plating | 2/min | Automated |
+| Modular Frame | 4/min | Automated |
+| Concrete | 20/min | Automated |
+| Steel Pipe | 20/min | Automated |
+| Steel Beam | 30/min | Automated |
+| Encased Industrial Beam | 5.835/min | Automated |
+| Versatile Framework | 5/min | Automated |
+| Automated Wiring | 2.5/min | Automated |
 
 ---
 
@@ -48,7 +63,11 @@
 
 | Source | Count | Output |
 |--------|-------|--------|
-| — | — | — |
+| Coal Generators | 16 | 1200 MW |
+| HUB Biomass Burners | 2 | 40 MW |
+| External Biomass Burners | 6 | 180 MW |
+| **Total Supply** | | **1420 MW** |
+| **Total Draw** | | **~807.6 MW** |
 
 ---
 
