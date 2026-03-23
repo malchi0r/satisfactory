@@ -15,7 +15,7 @@
 | Tier 2 | Advanced Base Building & Exploration | ✅ Complete | ~3h 23m | 2 |
 | Tier 3 | Coal Power & Exploration | ✅ Complete | 4h 12m | 2 |
 | Tier 4 | Advanced Manufacturing | ✅ Complete | ~9h 56m | 4 |
-| Tier 5 | Oil Processing | ⬜ Locked | — | — |
+| Tier 5 | Oil Processing | 🔶 In Progress | — | 1+ |
 | Tier 6 | Industrial Manufacturing | ⬜ Locked | — | — |
 | Tier 7 | Bauxite Refinement | ⬜ Locked | — | — |
 | Tier 8 | Nuclear Power | ⬜ Locked | — | — |
@@ -54,6 +54,15 @@
 **Trains:** Not started
 **Fluid Trucking:** Not started
 
+### End of Tier 4
+**Power:** 16x Coal Generators (1200 MW) + 8x Biomass Burners (220 MW) — 1420 MW supply / ~807.6 MW draw
+**Miners:** Pure Iron Mk1, Normal Iron Mk1, Impure Iron Mk1 x2, Normal Copper Mk1, Normal Limestone Mk1, Normal Coal Mk2 x2, Pure Coal Mk2 + Mk1, Normal Iron Mk2 x2 (Steel Iron Mine), Normal Copper Mk1 (Steel Factory)
+**Production:** Iron Rods 30/min, Screws 120/min, Iron Plates 40/min, Wire 60/min, Cable 30/min, Reinforced Plate 5/min, Copper Sheet 30/min, Rotor 4/min, Smart Plating 2/min, Modular Frame 4/min, Concrete 20/min, Steel Pipe 20/min, Steel Beam 30/min, Encased Industrial Beam 5.835/min, Versatile Framework 5/min, Automated Wiring 2.5/min — all automated
+**Logistics:** Mk3 Conveyor Belts, AWESOME Sink online, Tractor routes active
+**Road Network:** Not started
+**Trains:** Not started
+**Fluid Trucking:** Not started
+
 ---
 
 ## Node Registry
@@ -73,7 +82,7 @@
 | Coal | Normal x2 | ~350m NNE | Active — power array |
 | Coal | Pure x2 | ~850m NE | Active — Steel Factory |
 | Coal | Impure x2 | ~515m NNW | Backup |
-| Oil | — | TBD — Spire Coast north | Tier 5 target |
+| Oil | TBD | TBD | Tier 5 target — Spire Coast north ruled out |
 | Water | — | Waterfall basin | Confirmed for coal power |
 
 ---
@@ -97,7 +106,8 @@
 | Steel Factory — Coal Mining + truck stop | 19.5 MW |
 | Steel Factory — Copper Supply (60/min) | 4 MW |
 | Steel Factory — Unit C (Automated Wiring 2.5/min) | 45.2 MW |
-| **Total** | **~807.6 MW** |
+| Motor/Stator Factory (5/min each) | TBD — Session 11 |
+| **Total** | **~807.6 MW + Motor/Stator TBD** |
 
 ---
 
@@ -132,9 +142,9 @@
 *To be built out in Tier 5+*
 
 ### Planned Spine Road
-- **Axis:** North–South along desert
+- **Axis:** TBD — original Spire Coast north plan ruled out
 - **South anchor:** HUB / main base area
-- **North anchor:** Spire Coast (oil)
+- **North anchor:** TBD
 - **Branch points:** Coal cluster, iron/copper mining district, oasis water source
 
 ### Active Truck Routes
@@ -184,6 +194,7 @@
 | 7 | — | 28m | Tier 4 | Logistics Mk. 3, Coal Power miners upgraded to Mk. 2 |
 | 8 | — | 2h 50m + 2h 5m | Tier 4 | Coal Power Expansion (Coal B), Steel Iron Mine upgrade, Steel Factory revamp, Expanded Power Infrastructure, Hypertubes, Automated Wiring, Versatile Framework, Encased Industrial Beam, Tier 4 complete |
 | 9 | 2026-03-20 | ~2h 43m | Tier 4 | Unit C (Automated Wiring 2.5/min), Yellow Power Slug (MAM), Steel Rods alt recipe, Space Elevator Phase 2 complete |
+| 10 | 2026-03-22 | 3h 10m | Tier 5 | Motor/Stator factory (5/min each), Jetpack milestone complete |
 
 ---
 
@@ -193,6 +204,7 @@
 - [Tier 2 — Advanced Base Building & Exploration](./tier_2.md) ✅
 - [Tier 3 — Coal Power & Exploration](./tier_3.md) ✅
 - [Tier 4 — Advanced Manufacturing](./tier_4.md) ✅
+- [Tier 5 — Oil Processing](./tier_5.md) 🔶
 
 ---
 
@@ -202,8 +214,8 @@
 HUB at cliff base near waterfall basin is a bootstrap base, not the forever home. Main factory infrastructure will expand outward via spine road and train as logistics mature. Distributed production model — process at the node, truck finished goods back via 1.2 road network.
 
 ### 1.2 Logistics Approach
-Last-mile infrastructure model rather than the old railroad-first constraint. Spine road handles trunk volume, branch roads serve node clusters, trains handle high volume freight once steel allows. Fluid trucking enables refinery placement flexibility — crude can come to a central refinery or finished products can ship from a dedicated oil outpost. Decision deferred until Tier 5.
+Last-mile infrastructure model rather than the old railroad-first constraint. Spine road handles trunk volume, branch roads serve node clusters, trains handle high volume freight once steel allows. Fluid trucking enables refinery placement flexibility — crude can come to a central refinery or finished products can ship from a dedicated oil outpost. Decision deferred until oil location is scouted.
 
 ---
 
-*Created: 2026-03-20*
+*Updated: 2026-03-22*
