@@ -15,7 +15,7 @@
 | Tier 2 | Advanced Base Building & Exploration | ✅ Complete | ~3h 23m | 2 |
 | Tier 3 | Coal Power & Exploration | ✅ Complete | 4h 12m | 2 |
 | Tier 4 | Advanced Manufacturing | ✅ Complete | ~9h 56m | 4 |
-| Tier 5 | Oil Processing | 🔶 In Progress | — | 2+ |
+| Tier 5 | Oil Processing | 🔶 In Progress | — | 3+ |
 | Tier 6 | Industrial Manufacturing | ⬜ Locked | — | — |
 | Tier 7 | Bauxite Refinement | ⬜ Locked | — | — |
 | Tier 8 | Nuclear Power | ⬜ Locked | — | — |
@@ -85,7 +85,8 @@
 | Coal | Pure x2 | ~850m NE | Active — Steel Factory |
 | Coal | Impure x2 | ~515m NNW | Backup |
 | Coal | Normal x2 | 3970, -2629 | Coal Mine 2 — Motor Factory fuel supply |
-| Oil | TBD | TBD | Tier 5 target — Spire Coast north ruled out |
+| Oil | Impure x2 | TBD | Active — piped to refinery (Session 12) |
+| Oil | Normal x2 | TBD | Active — piped to refinery (Session 12) |
 | Water | — | Waterfall basin | Confirmed for coal power |
 
 ---
@@ -114,7 +115,9 @@
 | Motor/Stator Factory — Mk.2 Iron Miner (Pure) | 15 MW |
 | Motor/Stator Factory — Mk.1 Copper Miner (Pure) | 4 MW |
 | Motor/Stator Factory — Production Equipment | 218.9 MW |
-| **Total** | **~1115.5 MW** |
+| Oil Extraction (4x extractors) | 160 MW |
+| Oil Pipeline Pumps (4x) | TBD |
+| **Total** | **~1275.5 MW + pumps TBD** |
 
 ---
 
@@ -147,9 +150,11 @@
 ## Road & Logistics Network
 
 ### Road Construction Progress
-- [ ] Coal Mine 2 → Steel Factory (in progress — started Session 11)
-- [ ] Steel Factory → HUB (planned Session 12)
-- [ ] Spine road route decided
+- [x] Spine road: Motor Factory → Iron Mine 1 → Steel Factory → HUB (Session 12)
+- [x] Off ramps: Iron Mine 1, Steel Factory, HUB, Copper Sheet Factory (Session 12)
+- [x] Spine road extended: HUB → past Reinforced Plate / Copper Sheet / Modular Frame → Refinery (Session 12)
+- [ ] Oil extractors → Refinery (pipeline — terrain blocked road)
+- [ ] Spine road continuation past refinery toward oil (if needed)
 
 ### Active Truck Routes
 | Route | Cargo | Vehicles |
@@ -202,6 +207,7 @@
 | 9 | 2026-03-20 | ~2h 43m | Tier 4 | Unit C (Automated Wiring 2.5/min), Yellow Power Slug (MAM), Steel Rods alt recipe, Space Elevator Phase 2 complete |
 | 10 | 2026-03-22 | 3h 10m | Tier 5 | Motor/Stator factory (5/min each), Jetpack milestone complete |
 | 11 | 2026-03-23 | 45m | Tier 5 | Motor/Stator detail recorded, Oil Processing milestone, Wet Concrete alt recipe, road construction started (Coal Mine 2 → Steel Factory) |
+| 12 | 2026-03-23 | 2h 50m | Tier 5 | Spine road completed (Motor Factory → HUB → Refinery), oil extraction online (4 extractors, 360/min crude), pipeline to refinery buffer tanks |
 
 ---
 

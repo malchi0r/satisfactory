@@ -19,10 +19,12 @@
 ## Primary Goals
 
 - [x] Build Motor line — 5/min Stator, 5/min Motor (Session 10)
-- [ ] Locate oil node(s)
-- [ ] Build oil extraction & refinery (Plastic, Rubber, Fuel)
+- [x] Locate oil node(s) — Session 12
+- [x] Build oil extraction — 4 extractors, 360/min crude (Session 12)
+- [ ] Build refinery lines (Plastic, Rubber, Fuel)
 - [ ] Overclock Unit A (Steel Pipe) — power slug in inventory, carried from Tier 4
-- [ ] Road network: Coal Mine 2 → Steel Factory → HUB (in progress)
+- [x] Road network: Spine road Motor Factory → HUB (Session 12)
+- [ ] Road network: Extend spine road to refinery area → oil (partially complete — refinery connected, extractors pipeline-fed)
 
 ---
 
@@ -41,7 +43,8 @@
 | Iron | Pure | 3857, -1869 area | Motor Factory supply (Mk.2 miner) |
 | Copper | Pure | 3799, -1696 | Motor Factory supply |
 | Coal | Normal x2 | 3970, -2629 | Coal Mine 2 — Motor Factory fuel supply |
-| Oil | TBD | TBD | — |
+| Oil | Impure x2 | TBD | Active — piped to refinery |
+| Oil | Normal x2 | TBD | Active — piped to refinery |
 
 ---
 
@@ -93,6 +96,22 @@
 
 ---
 
+## Oil Extraction (Built Session 12)
+
+| Component | Detail | Draw |
+|-----------|--------|------|
+| 2x Oil Extractor (Impure) | — | — |
+| 2x Oil Extractor (Normal) | — | — |
+| **Total Output** | **360/min Crude Oil** | **160 MW** |
+| 4x Pipeline Pump | Extractors → Refinery buffer tanks | TBD |
+
+- Oil delivered via pipeline (road couldn't reach extractors)
+- 2x Industrial Fluid Buffer at refinery site receiving crude
+- Refinery site is road-connected via spine road extension
+- Extractor and refinery locations to be recorded next session
+
+---
+
 ## Production at Tier Completion
 
 | Item | Rate | Method |
@@ -111,10 +130,14 @@
 
 ## Road Network Progress
 
-- [ ] Coal Mine 2 → Steel Factory (in progress — started Session 11)
-- [ ] Steel Factory → HUB (planned Session 12)
-- [ ] Oil route scouted
-- [ ] Spine road route decided
+- [x] Spine road: Motor Factory → Iron Mine 1 → Steel Factory → HUB (Session 12)
+- [x] Off ramp: Iron Mine 1 truck stop (Session 12)
+- [x] Off ramp: Steel Factory truck stop (Session 12)
+- [x] Off ramp: HUB (Session 12)
+- [x] Off ramp: Copper Sheet factory (Session 12)
+- [x] Spine road extended: HUB → past Reinforced Plate / Copper Sheet / Modular Frame → Refinery (Session 12)
+- [ ] Oil route: Extractors → Refinery (pipeline, not road — terrain blocked)
+- [ ] Spine road route decided (spine is de facto the Motor Factory → HUB → Refinery axis)
 
 ---
 
@@ -136,11 +159,13 @@
 
 ## Notes & Observations
 
-- Spire Coast north ruled out as oil source — oil location TBD
+- Spire Coast north ruled out as oil source — oil found past Modular Frame factory direction
 - Jetpack milestone completable from existing production + Motor line (no oil needed)
 - Fluid Truck (1.2 feature) available for oil logistics once route is decided
 - Motor/Stator factory built Session 10, detail recorded Session 11
-- Road construction started Session 11: Coal Mine 2 → Steel Factory, plan to extend to HUB next session
+- Road construction started Session 11, spine road completed Session 12
+- Oil extractors online Session 12, crude piped to refinery buffer tanks
+- Truck stops renamed: Iron Mine 1, Steel Factory
 
 ---
 
