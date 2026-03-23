@@ -15,7 +15,7 @@
 | Tier 2 | Advanced Base Building & Exploration | ✅ Complete | ~3h 23m | 2 |
 | Tier 3 | Coal Power & Exploration | ✅ Complete | 4h 12m | 2 |
 | Tier 4 | Advanced Manufacturing | ✅ Complete | ~9h 56m | 4 |
-| Tier 5 | Oil Processing | 🔶 In Progress | — | 1+ |
+| Tier 5 | Oil Processing | 🔶 In Progress | — | 2+ |
 | Tier 6 | Industrial Manufacturing | ⬜ Locked | — | — |
 | Tier 7 | Bauxite Refinement | ⬜ Locked | — | — |
 | Tier 8 | Nuclear Power | ⬜ Locked | — | — |
@@ -73,15 +73,18 @@
 | Iron | Normal | ~75m from pure iron | Secondary — Rotor line |
 | Iron | Normal x2 | — | Steel Iron Mine |
 | Iron | Impure x2 | — | Modular Frame line |
+| Iron | Pure | 3857, -1869 area | Motor Factory supply (Mk.2 miner) |
 | Copper | Normal | ~145m | Adjacent to pure iron cluster |
 | Copper | Normal | 2527, -1624 | Discovered Session 4 |
 | Copper | Normal | Steel Factory site | Unit C supply — Session 9 |
+| Copper | Pure | 3799, -1696 | Motor Factory supply — Session 10 |
 | Limestone | Normal | Cliff base, HUB adjacent | — |
 | Limestone | Impure x2 | Waterfall basin | Backup only |
 | Iron | Impure x2+ | Waterfall shoreline | Backup only |
 | Coal | Normal x2 | ~350m NNE | Active — power array |
 | Coal | Pure x2 | ~850m NE | Active — Steel Factory |
 | Coal | Impure x2 | ~515m NNW | Backup |
+| Coal | Normal x2 | 3970, -2629 | Coal Mine 2 — Motor Factory fuel supply |
 | Oil | TBD | TBD | Tier 5 target — Spire Coast north ruled out |
 | Water | — | Waterfall basin | Confirmed for coal power |
 
@@ -106,8 +109,12 @@
 | Steel Factory — Coal Mining + truck stop | 19.5 MW |
 | Steel Factory — Copper Supply (60/min) | 4 MW |
 | Steel Factory — Unit C (Automated Wiring 2.5/min) | 45.2 MW |
-| Motor/Stator Factory (5/min each) | TBD — Session 11 |
-| **Total** | **~807.6 MW + Motor/Stator TBD** |
+| Motor/Stator Factory — Coal Mine 2 (miners + truck stop) | 50 MW |
+| Motor/Stator Factory — Truck Stop (receive) | 20 MW |
+| Motor/Stator Factory — Mk.2 Iron Miner (Pure) | 15 MW |
+| Motor/Stator Factory — Mk.1 Copper Miner (Pure) | 4 MW |
+| Motor/Stator Factory — Production Equipment | 218.9 MW |
+| **Total** | **~1115.5 MW** |
 
 ---
 
@@ -139,18 +146,16 @@
 
 ## Road & Logistics Network
 
-*To be built out in Tier 5+*
-
-### Planned Spine Road
-- **Axis:** TBD — original Spire Coast north plan ruled out
-- **South anchor:** HUB / main base area
-- **North anchor:** TBD
-- **Branch points:** Coal cluster, iron/copper mining district, oasis water source
+### Road Construction Progress
+- [ ] Coal Mine 2 → Steel Factory (in progress — started Session 11)
+- [ ] Steel Factory → HUB (planned Session 12)
+- [ ] Spine road route decided
 
 ### Active Truck Routes
 | Route | Cargo | Vehicles |
 |-------|-------|---------|
 | Steel Iron Mine → Steel Factory | Iron 360/min | Tractors |
+| Coal Mine 2 → Motor Factory | Coal | Truck |
 
 ### Fluid Trucking Routes
 *None yet — planned for Tier 5 oil operations*
@@ -178,6 +183,7 @@
 | TBD — Session 6 hard drive | Crash site 3025, -2425 | Pending (scan incomplete at session end) |
 | Steel Rods | Hard drive (Session 9) | — |
 | TBD — Session 9 hard drive | — | Scanning at session end |
+| Wet Concrete | Hard drive (Session 11) | — |
 
 ---
 
@@ -195,6 +201,7 @@
 | 8 | — | 2h 50m + 2h 5m | Tier 4 | Coal Power Expansion (Coal B), Steel Iron Mine upgrade, Steel Factory revamp, Expanded Power Infrastructure, Hypertubes, Automated Wiring, Versatile Framework, Encased Industrial Beam, Tier 4 complete |
 | 9 | 2026-03-20 | ~2h 43m | Tier 4 | Unit C (Automated Wiring 2.5/min), Yellow Power Slug (MAM), Steel Rods alt recipe, Space Elevator Phase 2 complete |
 | 10 | 2026-03-22 | 3h 10m | Tier 5 | Motor/Stator factory (5/min each), Jetpack milestone complete |
+| 11 | 2026-03-23 | 45m | Tier 5 | Motor/Stator detail recorded, Oil Processing milestone, Wet Concrete alt recipe, road construction started (Coal Mine 2 → Steel Factory) |
 
 ---
 
@@ -218,4 +225,4 @@ Last-mile infrastructure model rather than the old railroad-first constraint. Sp
 
 ---
 
-*Updated: 2026-03-22*
+*Updated: 2026-03-23*
