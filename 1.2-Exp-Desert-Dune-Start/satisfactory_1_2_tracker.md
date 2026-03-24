@@ -15,8 +15,8 @@
 | Tier 2 | Advanced Base Building & Exploration | ✅ Complete | ~3h 23m | 2 |
 | Tier 3 | Coal Power & Exploration | ✅ Complete | 4h 12m | 2 |
 | Tier 4 | Advanced Manufacturing | ✅ Complete | ~9h 56m | 4 |
-| Tier 5 | Oil Processing | 🔶 In Progress | — | 3+ |
-| Tier 6 | Industrial Manufacturing | ⬜ Locked | — | — |
+| Tier 5 | Oil Processing | ✅ Complete | ~7h 46m | 4 |
+| Tier 6 | Industrial Manufacturing | 🔶 In Progress | — | 1+ |
 | Tier 7 | Bauxite Refinement | ⬜ Locked | — | — |
 | Tier 8 | Nuclear Power | ⬜ Locked | — | — |
 | Tier 9 | Advanced Aluminum | ⬜ Locked | — | — |
@@ -60,6 +60,15 @@
 **Production:** Iron Rods 30/min, Screws 120/min, Iron Plates 40/min, Wire 60/min, Cable 30/min, Reinforced Plate 5/min, Copper Sheet 30/min, Rotor 4/min, Smart Plating 2/min, Modular Frame 4/min, Concrete 20/min, Steel Pipe 20/min, Steel Beam 30/min, Encased Industrial Beam 5.835/min, Versatile Framework 5/min, Automated Wiring 2.5/min — all automated
 **Logistics:** Mk3 Conveyor Belts, AWESOME Sink online, Tractor routes active
 **Road Network:** Not started
+**Trains:** Not started
+**Fluid Trucking:** Not started
+
+### End of Tier 5
+**Power:** 16x Coal Generators (1200 MW) + 8x Biomass Burners (220 MW) — 1420 MW supply / ~1356 MW draw (+ pumps TBD)
+**Miners:** Pure Iron Mk1, Normal Iron Mk1, Impure Iron Mk1 x2, Normal Copper Mk1, Normal Limestone Mk1, Normal Coal Mk2 x2, Pure Coal Mk2 + Mk1, Normal Iron Mk2 x2 (Steel Iron Mine), Normal Copper Mk1 (Steel Factory), Pure Iron Mk2 (Motor Factory), Pure Copper Mk1 (Motor Factory), Normal Coal Mk2 x2 (Coal Mine 2), Oil Extractor x4 (2 Impure, 2 Normal)
+**Production:** Iron Rods 30/min, Screws 120/min, Iron Plates 40/min, Wire 60/min, Cable 30/min, Reinforced Plate 5/min, Copper Sheet 30/min, Rotor 4/min, Smart Plating 2/min, Modular Frame 4/min, Concrete 20/min, Steel Pipe 20/min, Steel Beam 30/min, Encased Industrial Beam 5.835/min, Versatile Framework 5/min, Automated Wiring 2.5/min, Stator 5/min, Motor 5/min, Rubber 20/min, Plastic 20/min, Petroleum Coke 90/min (→ AWESOME Sink) — all automated
+**Logistics:** Mk4 Conveyor Belts, AWESOME Sink online, Tractor routes active, Pipeline network active
+**Road Network:** Spine road Motor Factory → HUB → Refinery, off ramps to Iron Mine 1, Steel Factory, HUB, Copper Sheet Factory
 **Trains:** Not started
 **Fluid Trucking:** Not started
 
@@ -117,7 +126,9 @@
 | Motor/Stator Factory — Production Equipment | 218.9 MW |
 | Oil Extraction (4x extractors) | 160 MW |
 | Oil Pipeline Pumps (4x) | TBD |
-| **Total** | **~1275.5 MW + pumps TBD** |
+| Rubber & Plastic Factory (production) | 60 MW |
+| Petroleum Coke Refinery (75% clock) | 20.5 MW |
+| **Total** | **~1356 MW + pumps TBD** |
 
 ---
 
@@ -153,8 +164,7 @@
 - [x] Spine road: Motor Factory → Iron Mine 1 → Steel Factory → HUB (Session 12)
 - [x] Off ramps: Iron Mine 1, Steel Factory, HUB, Copper Sheet Factory (Session 12)
 - [x] Spine road extended: HUB → past Reinforced Plate / Copper Sheet / Modular Frame → Refinery (Session 12)
-- [ ] Oil extractors → Refinery (pipeline — terrain blocked road)
-- [ ] Spine road continuation past refinery toward oil (if needed)
+- [x] Oil extractors → Refinery (pipeline — terrain blocked road) (Session 12)
 
 ### Active Truck Routes
 | Route | Cargo | Vehicles |
@@ -163,10 +173,10 @@
 | Coal Mine 2 → Motor Factory | Coal | Truck |
 
 ### Fluid Trucking Routes
-*None yet — planned for Tier 5 oil operations*
+*None yet*
 
 ### Train Network
-*Not started — target Tier 5+*
+*Not started*
 
 ---
 
@@ -178,6 +188,8 @@
 | Inflated Pocket Dimension | Megafauna | Session 5 |
 | Structural Analysis | Megafauna | Session 5 |
 | Yellow Power Slug | — | Session 9, 55:30 |
+| Expanded Toolbelt | — | Session 13, 47:01 |
+| Nutritional Processor | — | Session 13, 48:11 |
 
 ---
 
@@ -208,6 +220,7 @@
 | 10 | 2026-03-22 | 3h 10m | Tier 5 | Motor/Stator factory (5/min each), Jetpack milestone complete |
 | 11 | 2026-03-23 | 45m | Tier 5 | Motor/Stator detail recorded, Oil Processing milestone, Wet Concrete alt recipe, road construction started (Coal Mine 2 → Steel Factory) |
 | 12 | 2026-03-23 | 2h 50m | Tier 5 | Spine road completed (Motor Factory → HUB → Refinery), oil extraction online (4 extractors, 360/min crude), pipeline to refinery buffer tanks |
+| 13 | 2026-03-23 | 1h 01m | Tier 5, Tier 6 | Rubber & Plastic factory (20/min each), Petroleum Coke to Sink, Logistics Mk. 4, Fluid Packaging, Petroleum Power — Tier 5 complete. Industrial Manufacturing (Tier 6) |
 
 ---
 
@@ -217,7 +230,8 @@
 - [Tier 2 — Advanced Base Building & Exploration](./tier_2.md) ✅
 - [Tier 3 — Coal Power & Exploration](./tier_3.md) ✅
 - [Tier 4 — Advanced Manufacturing](./tier_4.md) ✅
-- [Tier 5 — Oil Processing](./tier_5.md) 🔶
+- [Tier 5 — Oil Processing](./tier_5.md) ✅
+- [Tier 6 — Industrial Manufacturing](./tier_6.md) 🔶
 
 ---
 

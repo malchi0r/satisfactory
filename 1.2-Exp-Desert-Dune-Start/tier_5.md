@@ -1,8 +1,8 @@
 # Tier 5 - Oil Processing
 
-**Status:** In Progress
-**Total Time:** —
-**Sessions:** —
+**Status:** Complete
+**Total Time:** ~7h 46m (Sessions 10–13)
+**Sessions:** 4
 
 ---
 
@@ -10,9 +10,9 @@
 
 - [x] Jetpack — Session 10, 3:09:00
 - [x] Oil Processing — Session 11, 41:00
-- [ ] Logistics Mk. 4 — 200 Rubber, 300 Encased Industrial Beam, 400 Modular Frame
-- [ ] Fluid Packaging — 200 Plastic, 400 Steel Beam, 1000 Copper Sheet
-- [ ] Petroleum Power — 100 Motor, 100 Encased Industrial Beam, 200 Rubber, 200 Plastic
+- [x] Logistics Mk. 4 — Session 13, 25:40
+- [x] Fluid Packaging — Session 13, 33:25
+- [x] Petroleum Power — Session 13, 42:22
 
 ---
 
@@ -21,10 +21,9 @@
 - [x] Build Motor line — 5/min Stator, 5/min Motor (Session 10)
 - [x] Locate oil node(s) — Session 12
 - [x] Build oil extraction — 4 extractors, 360/min crude (Session 12)
-- [ ] Build refinery lines (Plastic, Rubber, Fuel)
+- [x] Build refinery lines — Rubber 20/min, Plastic 20/min (Session 13)
 - [ ] Overclock Unit A (Steel Pipe) — power slug in inventory, carried from Tier 4
 - [x] Road network: Spine road Motor Factory → HUB (Session 12)
-- [ ] Road network: Extend spine road to refinery area → oil (partially complete — refinery connected, extractors pipeline-fed)
 
 ---
 
@@ -112,11 +111,45 @@
 
 ---
 
+## Rubber & Plastic Factory (Built Session 13)
+
+| Line | Output | Power |
+|------|--------|-------|
+| Rubber | 20/min | — |
+| Plastic | 20/min | — |
+| Petroleum Coke (Heavy Oil Residue byproduct) | 90/min → AWESOME Sink | 20.5 MW |
+| **Factory Total** | — | **80.5 MW** |
+
+- Petroleum Coke refinery at 75% clock
+- Production equipment: 60 MW
+
+---
+
 ## Production at Tier Completion
 
 | Item | Rate | Method |
 |------|------|--------|
-| — | — | — |
+| Iron Rods | 30/min | Automated |
+| Screws | 120/min | Automated |
+| Iron Plates | 40/min | Automated |
+| Wire | 60/min | Automated |
+| Cable | 30/min | Automated |
+| Reinforced Plate | 5/min | Automated |
+| Copper Sheet | 30/min | Automated |
+| Rotor | 4/min | Automated |
+| Smart Plating | 2/min | Automated |
+| Modular Frame | 4/min | Automated |
+| Concrete | 20/min | Automated |
+| Steel Pipe | 20/min | Automated |
+| Steel Beam | 30/min | Automated |
+| Encased Industrial Beam | 5.835/min | Automated |
+| Versatile Framework | 5/min | Automated |
+| Automated Wiring | 2.5/min | Automated |
+| Stator | 5/min | Automated |
+| Motor | 5/min | Automated |
+| Rubber | 20/min | Automated |
+| Plastic | 20/min | Automated |
+| Petroleum Coke | 90/min | Automated → AWESOME Sink |
 
 ---
 
@@ -124,20 +157,20 @@
 
 | Source | Count | Output |
 |--------|-------|--------|
-| — | — | — |
+| Coal Generators | 16 | 1200 MW |
+| HUB Biomass Burners | 2 | 40 MW |
+| External Biomass Burners | 6 | 180 MW |
+| **Total Supply** | | **1420 MW** |
+| **Total Draw** | | **~1356 MW + pumps TBD** |
 
 ---
 
 ## Road Network Progress
 
 - [x] Spine road: Motor Factory → Iron Mine 1 → Steel Factory → HUB (Session 12)
-- [x] Off ramp: Iron Mine 1 truck stop (Session 12)
-- [x] Off ramp: Steel Factory truck stop (Session 12)
-- [x] Off ramp: HUB (Session 12)
-- [x] Off ramp: Copper Sheet factory (Session 12)
+- [x] Off ramps: Iron Mine 1, Steel Factory, HUB, Copper Sheet Factory (Session 12)
 - [x] Spine road extended: HUB → past Reinforced Plate / Copper Sheet / Modular Frame → Refinery (Session 12)
-- [ ] Oil route: Extractors → Refinery (pipeline, not road — terrain blocked)
-- [ ] Spine road route decided (spine is de facto the Motor Factory → HUB → Refinery axis)
+- [x] Oil extractors → Refinery (pipeline — terrain blocked road)
 
 ---
 
@@ -161,11 +194,11 @@
 
 - Spire Coast north ruled out as oil source — oil found past Modular Frame factory direction
 - Jetpack milestone completable from existing production + Motor line (no oil needed)
-- Fluid Truck (1.2 feature) available for oil logistics once route is decided
 - Motor/Stator factory built Session 10, detail recorded Session 11
 - Road construction started Session 11, spine road completed Session 12
 - Oil extractors online Session 12, crude piped to refinery buffer tanks
-- Truck stops renamed: Iron Mine 1, Steel Factory
+- Rubber & Plastic factory built Session 13, Heavy Oil Residue converted to Petroleum Coke and sunk
+- All Tier 5 milestones complete Session 13
 
 ---
 
@@ -173,7 +206,9 @@
 
 **Immediate priorities:**
 
-—
+- Record oil extractor and refinery locations
+- Record pipeline pump power
+- Overclock Unit A (Steel Pipe) — power slug in inventory
 
 **Open questions:**
 
@@ -181,4 +216,4 @@
 
 ---
 
-*Updated: 2026-03-23*
+*Created: 2026-03-23*
