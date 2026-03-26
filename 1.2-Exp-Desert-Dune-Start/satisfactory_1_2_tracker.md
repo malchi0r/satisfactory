@@ -16,7 +16,7 @@
 | Tier 3 | Coal Power & Exploration | ✅ Complete | 4h 12m | 2 |
 | Tier 4 | Advanced Manufacturing | ✅ Complete | ~9h 56m | 4 |
 | Tier 5 | Oil Processing | ✅ Complete | ~7h 46m | 4 |
-| Tier 6 | Industrial Manufacturing | 🔶 In Progress | — | 1+ |
+| Tier 6 | Industrial Manufacturing | 🔶 In Progress | — | 2+ |
 | Tier 7 | Bauxite Refinement | ⬜ Locked | — | — |
 | Tier 8 | Nuclear Power | ⬜ Locked | — | — |
 | Tier 9 | Advanced Aluminum | ⬜ Locked | — | — |
@@ -96,6 +96,7 @@
 | Coal | Normal x2 | 3970, -2629 | Coal Mine 2 — Motor Factory fuel supply |
 | Oil | Impure x2 | TBD | Active — piped to refinery (Session 12) |
 | Oil | Normal x2 | TBD | Active — piped to refinery (Session 12) |
+| Sulfur | Pure | — | Black Powder Factory supply (Mk.2 miner) — Session 14 |
 | Water | — | Waterfall basin | Confirmed for coal power |
 
 ---
@@ -128,7 +129,8 @@
 | Oil Pipeline Pumps (4x) | TBD |
 | Rubber & Plastic Factory (production) | 60 MW |
 | Petroleum Coke Refinery (75% clock) | 20.5 MW |
-| **Total** | **~1356 MW + pumps TBD** |
+| Black Powder Factory (Mk.2 Sulfur Miner + 2x Assembler) | 45 MW |
+| **Total** | **~1401 MW + pumps TBD** |
 
 ---
 
@@ -147,6 +149,8 @@
 | Coal A | 1x Mk.2 Normal Coal | 600 MW | 3x | 75 MW | — |
 | Coal B | 1x Mk.2 Normal Coal | 600 MW | 3x | 75 MW | — |
 | **Total** | | **1200 MW** | **6x** | **150 MW** | **1050 MW** |
+
+**Note:** Session 14 — 1x Mk.2 Coal Miner at power plant overclocked to 150%, 60/min coal diverted to Black Powder Factory.
 
 ---
 
@@ -176,7 +180,7 @@
 *None yet*
 
 ### Train Network
-*Not started*
+*Not started — Monorail Train Technology unlocked Session 14*
 
 ---
 
@@ -190,6 +194,10 @@
 | Yellow Power Slug | — | Session 9, 55:30 |
 | Expanded Toolbelt | — | Session 13, 47:01 |
 | Nutritional Processor | — | Session 13, 48:11 |
+| Black Powder | Sulfur | Session 14, 45:12 |
+| Detonator | Sulfur | Session 14, 47:53 |
+| Expanded Toolbelt | Sulfur | Session 14, 57:50 |
+| Smokeless Powder | Sulfur | Session 14, 58:09 |
 
 ---
 
@@ -221,6 +229,7 @@
 | 11 | 2026-03-23 | 45m | Tier 5 | Motor/Stator detail recorded, Oil Processing milestone, Wet Concrete alt recipe, road construction started (Coal Mine 2 → Steel Factory) |
 | 12 | 2026-03-23 | 2h 50m | Tier 5 | Spine road completed (Motor Factory → HUB → Refinery), oil extraction online (4 extractors, 360/min crude), pipeline to refinery buffer tanks |
 | 13 | 2026-03-23 | 1h 01m | Tier 5, Tier 6 | Rubber & Plastic factory (20/min each), Petroleum Coke to Sink, Logistics Mk. 4, Fluid Packaging, Petroleum Power — Tier 5 complete. Industrial Manufacturing (Tier 6) |
+| 14 | 2026-03-25 | 59m | Tier 6 | Monorail Train Technology, Black Powder factory (60/min), Sulfur MAM tree (Black Powder → Smokeless Powder) |
 
 ---
 
@@ -245,4 +254,4 @@ Last-mile infrastructure model rather than the old railroad-first constraint. Sp
 
 ---
 
-*Updated: 2026-03-23*
+*Updated: 2026-03-25*
